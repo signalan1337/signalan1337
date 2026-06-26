@@ -2,7 +2,7 @@
 
 # Alan Vieira
 
-- Software & AI Engineer
+- Software & AI Engineer.
 - Studying Computer Science @ UNIT.
 - Building technology to augment human intelligence.
 
