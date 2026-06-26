@@ -6,9 +6,9 @@
 - Studying Computer Science @ UNIT.
 - Building technology to augment human intelligence.
 
-**Stack:** Python · JavaScript · React · Express.js · MySQL
+**Knowledges:** Software Development · UX/UI · Data Science · ML/DL · AI Engineering
 
-**Interests:** Software Development · UX/UI · Data Science · ML/DL · AI Engineering
+**Stack:** Python · JavaScript · React · Express.js · MySQL
 
 ---
 
